@@ -1,0 +1,30 @@
+/* Apply style to an HTML tag using a CSS selector */
+p {
+    color: #333;
+}
+
+/* Create a class and apply it to elements, and style it */
+.my-class {
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+/* Apply an ID to an element and style it */
+#header {
+    background-color: #eee;
+    padding: 20px;
+    margin: 20px
+}
+
+/* Change the color of links on hover using a CSS selector */
+a:hover {
+    color: #ff6600;
+}
+
+/* Include an image */
+img {
+    max-width: 50%;
+    height: auto;
+}
